@@ -1,0 +1,39 @@
+{
+  "employees": [
+    {
+      "Name": "Amit Singh",
+      "DOB": "1999-5-15",
+      "Height": 163,
+      "City": "Jaunpur",
+      "State": "Uttar Pradesh"
+    },
+    {
+      "Name": "Abhishek Yadav",
+      "DOB": "2000-08-20",
+      "Height": 162,         
+      "City": "Gorakhpur",
+      "State": "Uttar Pradesh"
+    },
+    {
+      "Name": "Rohan Kumar",
+      "DOB": "1998-01-10",
+      "Height": 167,
+      "City": "Gorakhpur",
+      "State": "UttarPradesh "
+    },
+    {
+      "Name": "Aman Kumar",
+      "DOB": "1999-03-25",
+      "Height": 168,
+      "City": "Vanaras",
+      "State": "Uttar Pradesh"
+    },
+    {
+      "Name": "Arvind Yadav",
+      "DOB": "2000-11-02",
+      "Height": 173,
+      "City": "Deoria",
+      "State": "Uttar Pradesh"
+    }
+  ]
+}
